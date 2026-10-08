@@ -430,7 +430,9 @@ function App() {
 
               </a>
 
-              <a href="#contact">
+              <a href="https://www.instagram.com/rutik_dongare__2001/"
+                    target="_blank"
+                     rel="noopener noreferrer">
 
                 <span className="contact-icon">
                   <FaInstagram />
@@ -439,7 +441,7 @@ function App() {
                 <div>
                   <span>Instagram</span>
                   <strong>
-                    Add Instagram Link
+                    @rutik_dongare_2001
                   </strong>
                 </div>
 
