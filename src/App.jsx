@@ -447,7 +447,10 @@ function App() {
 
               </a>
 
-              <a href="#contact">
+              <a href="https://github.com/rutikdongare4911"
+                   target="_blank"
+                      rel="noopener noreferrer"
+              >
 
                 <span className="contact-icon">
                   <FaGithub />
@@ -456,13 +459,16 @@ function App() {
                 <div>
                   <span>GitHub</span>
                   <strong>
-                    Add GitHub Link
+                    @rutikdongare4911
                   </strong>
                 </div>
 
               </a>
 
-              <a href="#contact">
+              <a href="https://www.linkedin.com/in/rutik-dongare-5125581a1/"
+                 target="_blank"
+                 rel="noopener noreferrer"
+               >
 
                 <span className="contact-icon">
                   <FaLinkedin />
@@ -471,7 +477,7 @@ function App() {
                 <div>
                   <span>LinkedIn</span>
                   <strong>
-                    Add LinkedIn Link
+                    Rutik Dongare
                   </strong>
                 </div>
 
